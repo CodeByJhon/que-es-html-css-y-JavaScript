@@ -1,3 +1,7 @@
 body {
     background-color: #f8ebcd;
+
+    .chulito {
+        list-style-type: "✔️"; 
+        }
 }
