@@ -4,4 +4,8 @@ body {
     .chulito {
         list-style-type: "✔️"; 
         }
+
+        body {
+  font-family: Arial, sans-serif;
+}
 }
